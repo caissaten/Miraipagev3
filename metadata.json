@@ -1,0 +1,6 @@
+{
+  "name": "MiraiPage",
+  "description": "An elegant, immersive personal web novel library featuring beautiful reader settings, local progress history, and a seamless admin publishing flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
